@@ -1,0 +1,8 @@
+web/node_modules
+api/.idea/
+*.iml
+web/built
+web/html/.idea/
+api/target/
+*.class
+/target/
